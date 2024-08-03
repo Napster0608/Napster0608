@@ -8,5 +8,5 @@ Hola soy Napster y estoy iniciando en el mundo de la programación...
 
 **Habilidades:**
 
-[![My Skills](https://skillicons.dev/icons?i=python,flutter)](https://www.python.org,https://flutter.dev) 
+[![My Skills](https://skillicons.dev/icons?i=python,flutter)](https://www.python.org)
 
