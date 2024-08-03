@@ -2,9 +2,9 @@ Hola soy Napster y estoy iniciando en el mundo de la programación...
 
 ✉️  Contácto: thenapster0608gmail.com
 
-💻  Experiencia: Tengo 1 año desde que empecé programando pero sigo aprendiendo
+💻  Experiencia: Tengo menos de un año desde que empecé a programar y sigo aprendiendo
 
-🪪  Mi objetivo es ser un desarrollador Full-Stack 
+🪪  Mi objetivo es ser un Full-stack Devoloper 
 
 **Habilidades:**
 
