@@ -6,6 +6,6 @@ Hola soy Napster y estoy iniciando en el mundo de la programación...
 
 🪪  Mi objetivo es ser un desarrollador Full-Stack 
 
-
+**Habilidades:**
 [![My Skills](https://skillicons.dev/icons?i=python,flutter)](https://skillicons.dev) 
 
