@@ -1,6 +1,6 @@
 Hola soy Napster y estoy iniciando en el mundo de la programación...
 
-✉️  Contácto: thenapster0608gmail.com
+✉️  Contácto: thenapster0608@gmail.com
 
 💻  Experiencia: Tengo menos de un año desde que empecé a programar y sigo aprendiendo
 
